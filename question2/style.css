@@ -1,0 +1,21 @@
+body{
+
+    height: 100vh;
+    overflow: hidden;
+    
+}
+.parent{
+
+
+width: 200px;
+height: 100%;
+background-color: rgb(16, 163, 216);
+
+
+}
+.child{
+
+    display: flex;
+    justify-content: space-between;
+
+}
